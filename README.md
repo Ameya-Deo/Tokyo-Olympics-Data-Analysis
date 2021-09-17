@@ -21,3 +21,6 @@ There are 5 datasets from which the data was extracted to perform analysis.
    Columns: Rank, Team/NOC, Gold, Silver, Bronze, Total, Rank by Total
 5. Teams Data: The file contains all the teams.
    Columns: Name, National Olympic Committee (NOC), Discipline and Event
+
+## Credit
+Source: Tokyo Olympics 2020 Website
