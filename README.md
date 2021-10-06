@@ -22,8 +22,9 @@ There are 5 datasets from which the data was extracted to perform analysis.
 5. Teams Data: The file contains all the teams.
    Columns: Name, National Olympic Committee (NOC), Discipline and Event
 
-## Credit:
-Source: Tokyo Olympics 2020 Website
 
 ## Conclusion:
 Analyzed the data and created various graphs such as bar charts, pie charts, word clouds, histograms, and so on. It was simple to visualize the medal tally at the Tokyo Olympics thanks to charts.
+
+## Credit:
+Source: Tokyo Olympics 2020 Website
